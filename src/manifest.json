@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Collection Tree Exporter",
+  "version": "1.0.3",
+  "description": "Right-click a collection to export it and all of its subcollections as a plain-text tree.",
+  "author": "guozijian",
+  "applications": {
+    "zotero": {
+      "id": "collection-tree-exporter@local",
+      "update_url": "https://raw.githubusercontent.com/local/collection-tree-exporter/main/update.json",
+      "strict_min_version": "6.999",
+      "strict_max_version": "10.99.99"
+    }
+  }
+}
